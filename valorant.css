@@ -1,4 +1,5 @@
 /**/
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 *{ /* Ele é Geral,*/
     margin: 0;
     padding: 0;
@@ -10,21 +11,18 @@
 body {
     width: 100%; /*Toda a altura do seu site*/
     height: 100vh; /*Tentativa e sorte*/
-    overflow-x: hidden; /**/
-    overflow-y: hidden; /**/
-    color: white;
+    overflow-x: hidden; /*Esconder a barra de baixo*/
+    overflow-y: hidden; /*Esconder a barra lateral*/
+    color: #ffffff; /*Site Branco*/
 }
 
 p {
     color: rgb(163, 11, 11);
-}
-
-.teste {
-    font-style: italic;
+    font-family: "Lora", serif; /*Define que o paragrafo usara o que voce importou*/
 }
 
 
-.valorant {
+.valorant a{
     width: 50%;
 }
   
