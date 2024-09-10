@@ -1,6 +1,18 @@
+/**/
+*{ /* Ele é Geral,*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
 body {
-    background-color: rgba(9, 212, 248, 0.817);
-    text-align: center;
+    width: 100%; /*Toda a altura do seu site*/
+    height: 100vh; /*Tentativa e sorte*/
+    overflow-x: hidden; /**/
+    overflow-y: hidden; /**/
+    color: white;
 }
 
 p {
