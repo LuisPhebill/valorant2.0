@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 *{
     margin: 5px;
-    padding: 5px;
+    padding:5px;
     box-sizing: border-box;
     text-decoration: none;
     border: none;
@@ -13,11 +13,11 @@ body {
     height: 100vh; /*Tentativa e sorte*/
     overflow-x: hidden; /*Esconder a barra de baixo*/
      /*Esconder a barra lateral = overflow-y: hidden;*/
-    color: #ffffff; /*Site Branco*/
+    color: #120447; /*Site Branco*/
 }
 
 p {
-    color: rgb(163, 11, 11);
+    color: rgb(167, 144, 19);
     font-family: "Lora", serif; /*Define que o paragrafo usara o que voce importou*/
 }
 
