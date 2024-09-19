@@ -13,17 +13,18 @@ body {
     height: 100vh; /*Tentativa e sorte*/
     overflow-x: hidden; /*Esconder a barra de baixo*/
      /*Esconder a barra lateral = overflow-y: hidden;*/
-    color: rgb(34, 180, 66); /*Site Branco*/
+    color: rgb(0, 0, 0); /*Site Branco*/
 }
 
 p {
-    color: rgb(13, 0, 129);
+    color: rgb(134, 14, 10);
     font-family: "Lora", serif; /*Define que o paragrafo usara o que voce importou*/
 }
 
 
 .valorant a{
     width: 50%;
+    color: gold;
 }
   
 .download {
