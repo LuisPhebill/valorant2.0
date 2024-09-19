@@ -13,11 +13,11 @@ body {
     height: 100vh; /*Tentativa e sorte*/
     overflow-x: hidden; /*Esconder a barra de baixo*/
      /*Esconder a barra lateral = overflow-y: hidden;*/
-    color: rgb(18, 4, 71); /*Site Branco*/
+    color: rgb(34, 180, 66); /*Site Branco*/
 }
 
 p {
-    color: rgb(167, 144, 19);
+    color: rgb(13, 0, 129);
     font-family: "Lora", serif; /*Define que o paragrafo usara o que voce importou*/
 }
 
