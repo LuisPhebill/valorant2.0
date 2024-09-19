@@ -13,7 +13,7 @@ body {
     height: 100vh; /*Tentativa e sorte*/
     overflow-x: hidden; /*Esconder a barra de baixo*/
      /*Esconder a barra lateral = overflow-y: hidden;*/
-    color: #120447; /*Site Branco*/
+    color: rgb(18, 4, 71); /*Site Branco*/
 }
 
 p {
