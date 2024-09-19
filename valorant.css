@@ -12,7 +12,7 @@ body {
     width: 100%; /*Toda a altura do seu site*/
     height: 100vh; /*Tentativa e sorte*/
     overflow-x: hidden; /*Esconder a barra de baixo*/
-    overflow-y: hidden; /*Esconder a barra lateral*/
+     /*Esconder a barra lateral = overflow-y: hidden;*/
     color: #ffffff; /*Site Branco*/
 }
 
@@ -26,7 +26,7 @@ p {
     width: 50%;
 }
   
-a {
+.download {
     font-size: 40px;
     padding: 2px;
     margin-top: 5px;
