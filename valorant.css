@@ -15,6 +15,7 @@ body {
      /*Esconder a barra lateral = overflow-y: hidden;*/
     color: rgb(0, 0, 0); /*Site Branco*/
     background-origin: rgb(185, 30, 30);
+    background-color: rgb(0, 0, 0);
 }
 
 p {
